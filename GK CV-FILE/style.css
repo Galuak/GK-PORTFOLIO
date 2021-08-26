@@ -39,9 +39,12 @@ line-height: 24px;
 margin: 42px;
 
 }
-li>a{
+li a{
     text-decoration: none;
     color: #ECE6E6;
+}
+a:hover{
+    color: #D946EF;
 }
 .logo{
     position: absolute;
@@ -375,11 +378,6 @@ font-style: normal;
 font-weight: bold;
 font-size: 30px;
 line-height: 60px;
-/* background: linear-gradient(to right, #D946EF 30.21%, #3B82F6 71.49%);
- -webkit-background-clip: text;
- -webkit-text-fill-color: transparent;
- -moz-background-clip: text;
- -moz-text-fill-color: transparent; */
 }
 
 .proj-div1{
